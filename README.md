@@ -70,6 +70,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### Content
-this app contains four pages
-on the job page, you can view the positions posted by credit karma(fake), and you can filter them by typing in any key words.
-the map() function is used in the SearchList.js
+this app contains four pages, it is built through React.
+
+The main page is the welcome page to show the basic business of the company(Credit Karma)
+
+The about page introduces the history of credit and the company.
+On the job page, you can view the positions posted by credit karma(fake), and you can filter them by typing in any key words.
+
+The contact page includes ways to contact the staff and you can get help from that way.
+
+### Tech
+The map() function is used in the SearchList.js
+
+The Nav bar, the footer and the card element are the common elements for the four pages. The card element can show different content when requesting different pages.
+
+
