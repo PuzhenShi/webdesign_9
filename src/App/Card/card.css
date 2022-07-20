@@ -1,0 +1,27 @@
+#card {
+
+    height: 200px;
+    width: 150px;
+    padding: 0;
+    background-color: white;
+    -webkit-filter: drop-shadow(0px 0px 5px #666);
+    filter: drop-shadow(0px 0px 5px #666);
+}
+
+#label {
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 5px;
+    font-size:18px;
+    margin: 0;
+    
+    color: rgb(0, 134, 0);
+}
+
+#square {
+    padding:10px;
+    height: 140px;
+    background-color: rgb(0, 134, 0);
+    color:aliceblue;
+}
+
